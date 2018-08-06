@@ -2,7 +2,7 @@
 
 namespace ChaosDev93;
 
-use pocketmine\sheduler\Task;
+use pocketmine\scheduler\Task;
 
 class sendSuperBar extends Task
 {
