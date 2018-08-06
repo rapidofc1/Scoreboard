@@ -11,6 +11,8 @@ use pocketmine\math\Vector3;
 use pocketmine\Player;
 use pocketmine\scheduler\Task;
 
+use ChaosDev93\sendSuperBar;
+
 class Scoreboard extends PluginBase implements Listener {
 	
 	public $prefix = Color::WHITE . "[" . Color::GREEN . "Scoreboard" . Color::WHITE . "] ";
