@@ -1,0 +1,29 @@
+name: Hub
+main: ChaosDev93\Hub
+version: 0.1.0
+api:
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.0.4
+author: ChaosDev93
+commands:
+ build:
+  description: Build-Mode
+  aliases: [Build]
+  usage: /build <on/off>
+ fly:
+  description: Fly-Mode
+  aliases: [Fly]
+  usage: /fly <on/off>
+permissions:
+ hub:
+  description: "Allows to use all Hub features"
+  children:
+   hub.booster:
+     description: "On Join you become the Booster Item"
+   hub.build:
+     description: "Build-Mode"
+   hub.fly:
+     description: "Fly-Mode"
