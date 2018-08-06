@@ -3,6 +3,7 @@
 namespace ChaosDev93;
 
 use pocketmine\scheduler\Task;
+use pocketmine\utils\TextFormat as Color;
 
 class sendSuperBar extends Task
 {
