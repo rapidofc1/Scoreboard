@@ -1,0 +1,7 @@
+name: Scoreboard
+main: ChaosDev93\Scoreboard
+api:
+- 3.0.0
+- 3.0.7
+version: 0.0.6
+author: ChaosDev93
