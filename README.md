@@ -5,4 +5,4 @@
 
 This ist a Scoreboard plugin
 - [x] PlayerCount
-- [ ]Groups
+- [ ] Groups
