@@ -5,4 +5,7 @@
 
 This ist a Scoreboard plugin
 - [x] PlayerCount
+- [x] PlayerName
+- [x] Time
 - [ ] Groups
+- [ ] Win10
