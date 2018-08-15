@@ -7,5 +7,7 @@ This ist a Scoreboard plugin
 - [x] PlayerCount
 - [x] PlayerName
 - [x] Time
+- [x] Ping
+- [ ] Translate to English
 - [ ] Groups
 - [ ] Win10
