@@ -51,8 +51,8 @@ class sendSuperBar extends Task
                                                "\n\n\n\n\n\n\n\n\n\n\n\n\n\n" . 
                                                $t . Color::BOLD . $motd . Color::RESET . "\n" .
                                                $t . Color::BOLD . "Name" . Color::GRAY . ": " . Color::RESET . Color::BLUE . $player->getName() . Color::RESET . "\n" . 
-                                               $t . Color::BOLD . "Spieler" . Color::GRAY . ": " . Color::RESET . Color::GREEN . $online . Color::GRAY . " / " . Color::RED . $max . Color::RESET . "\n" . 
-                                               $t . Color::BOLD . "Zeit" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $h . ":" . $m . ":" . $s . Color::RESET . "\n" . 
+                                               $t . Color::BOLD . "Online" . Color::GRAY . ": " . Color::RESET . Color::GREEN . $online . Color::GRAY . " / " . Color::RED . $max . Color::RESET . "\n" . 
+                                               $t . Color::BOLD . "Time" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $h . ":" . $m . ":" . $s . Color::RESET . "\n" . 
                                                $t . Color::BOLD . "Ping" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $player->getPing() . Color::RESET . "\n" . str_repeat("\n", 24));
             	
             } else if ($anni === 2) {
@@ -61,8 +61,8 @@ class sendSuperBar extends Task
                                                "\n\n\n\n\n\n\n\n\n\n\n\n\n\n" . 
                                                $t . Color::BOLD . $motd . Color::RESET . "\n" . 
                                                $t . Color::BOLD . "Name" . Color::GRAY . ": " . Color::RESET . Color::BLUE . $player->getName() . Color::RESET . "\n" .
-                                               $t . Color::BOLD . "Spieler" . Color::GRAY . ": " . Color::RESET . Color::GREEN . $online . Color::GRAY . " / " . Color::RED . $max . Color::RESET . "\n" .
-                                               $t . Color::BOLD . "Zeit" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $h . ":" . $m . ":" . $s . Color::RESET . "\n" . 
+                                               $t . Color::BOLD . "Online" . Color::GRAY . ": " . Color::RESET . Color::GREEN . $online . Color::GRAY . " / " . Color::RED . $max . Color::RESET . "\n" .
+                                               $t . Color::BOLD . "Time" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $h . ":" . $m . ":" . $s . Color::RESET . "\n" . 
                                                $t . Color::BOLD . "Ping" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $player->getPing() . Color::RESET . "\n" . str_repeat("\n", 24));
             	
             } else if ($anni === 3) {
@@ -71,8 +71,8 @@ class sendSuperBar extends Task
                                                "\n\n\n\n\n\n\n\n\n\n\n\n\n\n" . 
                                                $t . Color::BOLD . $motd . Color::RESET . "\n" . 
                                                $t . Color::BOLD . "Name" . Color::GRAY . ": " . Color::RESET . Color::BLUE . $player->getName() . Color::RESET . "\n" .
-                                               $t . Color::BOLD . "Spieler" . Color::GRAY . ": " . Color::RESET . Color::GREEN . $online . Color::GRAY . " / " . Color::RED . $max . Color::RESET . "\n" .
-                                               $t . Color::BOLD . "Zeit" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $h . ":" . $m . ":" . $s . Color::RESET . "\n" . 
+                                               $t . Color::BOLD . "Online" . Color::GRAY . ": " . Color::RESET . Color::GREEN . $online . Color::GRAY . " / " . Color::RED . $max . Color::RESET . "\n" .
+                                               $t . Color::BOLD . "Time" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $h . ":" . $m . ":" . $s . Color::RESET . "\n" . 
                                                $t . Color::BOLD . "Ping" . Color::GRAY . ": " . Color::RESET . Color::YELLOW . $player->getPing() . Color::RESET . "\n" . str_repeat("\n", 24));
             	
             }
