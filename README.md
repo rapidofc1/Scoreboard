@@ -13,5 +13,4 @@ This is a simple Scoreboard plugin
 - [x] Ping
 - [x] Translate to English
 - [ ] PurePerms(Groups)
-- [ ] Config
 - [ ] Win10
