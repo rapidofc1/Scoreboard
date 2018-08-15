@@ -1,7 +1,9 @@
 # Scoreboard
 [![](https://poggit.pmmp.io/shield.state/Scoreboard)](https://poggit.pmmp.io/p/Scoreboard)
+| Discord |
+| :-----: |
+[![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/auWzNb7) |
 
-[![](https://poggit.pmmp.io/shield.api/Scoreboard)](https://poggit.pmmp.io/p/Scoreboard)
 
 This ist a Scoreboard plugin
 - [x] Server MOTD
@@ -10,6 +12,6 @@ This ist a Scoreboard plugin
 - [x] Time
 - [x] Ping
 - [x] Translate to English
-- [ ] Groups
+- [ ] PurePerms(Groups)
 - [ ] Config
 - [ ] Win10
