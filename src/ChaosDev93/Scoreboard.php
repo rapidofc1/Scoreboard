@@ -19,6 +19,8 @@ class Scoreboard extends PluginBase implements Listener {
 	
 	public $anni = 1;
 	
+	public $timeZone = 0;
+	
 	public function onEnable() {
 		
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
