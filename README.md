@@ -11,4 +11,5 @@ This ist a Scoreboard plugin
 - [x] Ping
 - [x] Translate to English
 - [ ] Groups
+- [ ] Config
 - [ ] Win10
