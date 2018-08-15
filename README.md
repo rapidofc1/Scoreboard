@@ -10,8 +10,9 @@ This is a simple Scoreboard plugin
 - [x] PlayerName
 - [x] OnlineCount
 - [x] Time
-- [x] Ping
+- [ ] Ping*
 - [x] Translate to English
 - [ ] PurePerms(Groups)
 - [ ] Config
 - [ ] Win10
+* *It is Buggy
