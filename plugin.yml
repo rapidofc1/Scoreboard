@@ -2,5 +2,5 @@ name: Scoreboard
 main: ChaosDev93\Scoreboard\Scoreboard
 api:
 - 3.0.0
-version: 0.1.2
+version: 0.1.3
 author: ChaosDev93
