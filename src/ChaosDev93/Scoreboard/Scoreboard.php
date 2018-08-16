@@ -1,6 +1,6 @@
 <?php
 
-namespace ChaosDev93;
+namespace ChaosDev93\Scoreboard;
 
 
 use pocketmine\plugin\PluginBase;
@@ -11,7 +11,7 @@ use pocketmine\math\Vector3;
 use pocketmine\Player;
 use pocketmine\scheduler\Task;
 
-use ChaosDev93\sendSuperBar;
+use ChaosDev93\Scoreboard\sendSuperBar;
 
 class Scoreboard extends PluginBase implements Listener {
 	

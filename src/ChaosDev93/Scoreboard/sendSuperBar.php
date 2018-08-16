@@ -1,6 +1,6 @@
 <?php
 
-namespace ChaosDev93;
+namespace ChaosDev93\Scoreboard;
 
 use pocketmine\scheduler\Task;
 use pocketmine\utils\TextFormat as Color;
