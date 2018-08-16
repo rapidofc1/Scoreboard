@@ -3,6 +3,6 @@ branches:
 - master
 projects:
   Scoreboard:
-    icon: icon.png
+    icon: "icon.png"
     path: ""
 ...
