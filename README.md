@@ -10,7 +10,13 @@ This is a simple Scoreboard plugin
 - [x] PlayerName
 - [x] OnlineCount
 - [x] Time
-- [x] Ping
+- [ ] Ping*
 - [x] Translate to English
 - [ ] PurePerms(Groups)
+<<<<<<< HEAD
 - [ ] Win10
+=======
+- [ ] Config
+- [ ] Win10
+* *It is Buggy
+>>>>>>> branch 'master' of https://github.com/chaosfreak93/Scoreboard.git
