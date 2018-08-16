@@ -6,6 +6,7 @@
 
 
 This is a simple Scoreboard plugin
+- [x] Icon
 - [x] Server MOTD
 - [x] PlayerName
 - [x] OnlineCount
